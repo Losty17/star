@@ -25,7 +25,8 @@
     "prettier-plugin-astro": "0.12.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "sanity": "3.16.2"
+    "sanity": "3.16.2",
+    "styled-components": "^6.0.7"
   },
   "devDependencies": {
     "@portabletext/types": "2.0.6",
